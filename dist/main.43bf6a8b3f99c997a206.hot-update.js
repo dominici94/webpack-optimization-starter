@@ -1,0 +1,29 @@
+/*
+ * ATTENTION: The "eval" devtool has been used (maybe by default in mode: "development").
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdatewebpack_optimization_starter"]("main",{
+
+/***/ "./src/js/event-handlers.js":
+/*!**********************************!*\
+  !*** ./src/js/event-handlers.js ***!
+  \**********************************/
+/***/ (() => {
+
+eval("throw new Error(\"Module build failed (from ./node_modules/babel-loader/lib/index.js):\\nSyntaxError: C:\\\\Users\\\\matti\\\\Documents\\\\webpack-optimization-starter\\\\src\\\\js\\\\event-handlers.js: Unexpected token, expected \\\"from\\\" (5:0)\\n\\n\\u001b[0m \\u001b[90m 3 |\\u001b[39m \\u001b[36mimport\\u001b[39m {}\\u001b[0m\\n\\u001b[0m \\u001b[90m 4 |\\u001b[39m\\u001b[0m\\n\\u001b[0m\\u001b[31m\\u001b[1m>\\u001b[22m\\u001b[39m\\u001b[90m 5 |\\u001b[39m \\u001b[36mfunction\\u001b[39m trim(value) {\\u001b[0m\\n\\u001b[0m \\u001b[90m   |\\u001b[39m \\u001b[31m\\u001b[1m^\\u001b[22m\\u001b[39m\\u001b[0m\\n\\u001b[0m \\u001b[90m 6 |\\u001b[39m   \\u001b[36mreturn\\u001b[39m value\\u001b[0m\\n\\u001b[0m \\u001b[90m 7 |\\u001b[39m     \\u001b[33m.\\u001b[39mreplace(\\u001b[35m/^\\\\s+/\\u001b[39m\\u001b[33m,\\u001b[39m \\u001b[32m\\\"\\\"\\u001b[39m)\\u001b[0m\\n\\u001b[0m \\u001b[90m 8 |\\u001b[39m     \\u001b[33m.\\u001b[39mreplace(\\u001b[35m/\\\\s+$/\\u001b[39m\\u001b[33m,\\u001b[39m \\u001b[32m\\\"\\\"\\u001b[39m)\\u001b[0m\\n    at instantiate (C:\\\\Users\\\\matti\\\\Documents\\\\webpack-optimization-starter\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:67:32)\\n    at constructor (C:\\\\Users\\\\matti\\\\Documents\\\\webpack-optimization-starter\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:364:12)\\n    at Parser.raise (C:\\\\Users\\\\matti\\\\Documents\\\\webpack-optimization-starter\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:3365:19)\\n    at Parser.unexpected (C:\\\\Users\\\\matti\\\\Documents\\\\webpack-optimization-starter\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:3398:16)\\n    at Parser.expectContextual (C:\\\\Users\\\\matti\\\\Documents\\\\webpack-optimization-starter\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:3734:18)\\n    at Parser.parseImport (C:\\\\Users\\\\matti\\\\Documents\\\\webpack-optimization-starter\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:14530:12)\\n    at Parser.parseStatementContent (C:\\\\Users\\\\matti\\\\Documents\\\\webpack-optimization-starter\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:13068:27)\\n    at Parser.parseStatementLike (C:\\\\Users\\\\matti\\\\Documents\\\\webpack-optimization-starter\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:12952:17)\\n    at Parser.parseModuleItem (C:\\\\Users\\\\matti\\\\Documents\\\\webpack-optimization-starter\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:12933:17)\\n    at Parser.parseBlockOrModuleBlockBody (C:\\\\Users\\\\matti\\\\Documents\\\\webpack-optimization-starter\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:13558:36)\\n    at Parser.parseBlockBody (C:\\\\Users\\\\matti\\\\Documents\\\\webpack-optimization-starter\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:13550:10)\\n    at Parser.parseProgram (C:\\\\Users\\\\matti\\\\Documents\\\\webpack-optimization-starter\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:12842:10)\\n    at Parser.parseTopLevel (C:\\\\Users\\\\matti\\\\Documents\\\\webpack-optimization-starter\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:12832:25)\\n    at Parser.parse (C:\\\\Users\\\\matti\\\\Documents\\\\webpack-optimization-starter\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:14740:10)\\n    at parse (C:\\\\Users\\\\matti\\\\Documents\\\\webpack-optimization-starter\\\\node_modules\\\\@babel\\\\parser\\\\lib\\\\index.js:14782:38)\\n    at parser (C:\\\\Users\\\\matti\\\\Documents\\\\webpack-optimization-starter\\\\node_modules\\\\@babel\\\\core\\\\lib\\\\parser\\\\index.js:41:34)\\n    at parser.next (<anonymous>)\\n    at normalizeFile (C:\\\\Users\\\\matti\\\\Documents\\\\webpack-optimization-starter\\\\node_modules\\\\@babel\\\\core\\\\lib\\\\transformation\\\\normalize-file.js:66:38)\\n    at normalizeFile.next (<anonymous>)\\n    at run (C:\\\\Users\\\\matti\\\\Documents\\\\webpack-optimization-starter\\\\node_modules\\\\@babel\\\\core\\\\lib\\\\transformation\\\\index.js:21:50)\\n    at run.next (<anonymous>)\\n    at transform (C:\\\\Users\\\\matti\\\\Documents\\\\webpack-optimization-starter\\\\node_modules\\\\@babel\\\\core\\\\lib\\\\transform.js:22:41)\\n    at transform.next (<anonymous>)\\n    at step (C:\\\\Users\\\\matti\\\\Documents\\\\webpack-optimization-starter\\\\node_modules\\\\gensync\\\\index.js:261:32)\\n    at C:\\\\Users\\\\matti\\\\Documents\\\\webpack-optimization-starter\\\\node_modules\\\\gensync\\\\index.js:273:13\\n    at async.call.result.err.err (C:\\\\Users\\\\matti\\\\Documents\\\\webpack-optimization-starter\\\\node_modules\\\\gensync\\\\index.js:223:11)\");\n\n//# sourceURL=webpack://webpack-optimization-starter/./src/js/event-handlers.js?");
+
+/***/ })
+
+},
+/******/ function(__webpack_require__) { // webpackRuntimeModules
+/******/ /* webpack/runtime/getFullHash */
+/******/ (() => {
+/******/ 	__webpack_require__.h = () => ("b70e151cd2a5330e426f")
+/******/ })();
+/******/ 
+/******/ }
+);
